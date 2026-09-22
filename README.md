@@ -1,67 +1,72 @@
-# Hypnotic Rings Animation
+<div align="center">
 
-A pure CSS animated design featuring layered concentric rings with glowing neon colors and a hypnotic pulsing motion.
+# 🌀 Hypnotic Rings Animation
+### Pure CSS Mesmerizing Effect
 
-This project demonstrates how to build an eye-catching visual effect using only HTML and CSS, with no JavaScript required.
+<br>
 
-## Preview
+<a href="https://www.youtube.com/@HtmlCssDevs">
+  <img src="https://img.shields.io/badge/▶_Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
 
-The animation creates a vivid circular ripple effect by stacking multiple ring elements with:
+<br><br>
 
-- gradient-like neon borders
-- glow shadows
-- layered scales
-- rotating 3D motion
-- smooth pulsing animation
+**🔥 Want more Pure CSS Animations & Source Code?**
+**Subscribe to my YouTube channel for weekly free code + tutorials!**
 
-## Project Structure
+<a href="https://www.youtube.com/@HtmlCssDevs?sub_confirmation=1">
+  <img src="https://img.shields.io/badge/Subscribe-HtmlCssDevs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe" height="40"/>
+</a>
 
-- `index.html` – markup for the ring layers
-- `style.css` – styling and animation logic
+<br><br>
 
-## How to Run
+[![YouTube Channel](https://img.shields.io/badge/YouTube-HtmlCssDevs-red?style=flat-square&logo=youtube)](https://www.youtube.com/@HtmlCssDevs)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://www.youtube.com/@HtmlCssDevs)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.youtube.com/@HtmlCssDevs)
+[![Pure CSS](https://img.shields.io/badge/Pure_CSS-No_JS-orange?style=flat-square)](https://www.youtube.com/@HtmlCssDevs)
 
-1. Open the project folder.
-2. Launch `index.html` in your browser.
-3. Enjoy the animated hypnotic rings.
-
-You can also use a local development server if you prefer, but plain browser opening works perfectly for this static project.
-
-## Features
-
-- Pure CSS animation
-- Responsive centered layout
-- Neon color palette
-- Depth and glow effects
-- Lightweight and easy to customize
-
-## Customization Ideas
-
-You can easily change:
-
-- ring size and spacing
-- glow colors
-- animation speed
-- 3D perspective angle
-- background tone
-
-## Connect With Me
-
-For more frontend UI ideas, CSS animations, and coding tutorials, subscribe to my YouTube channel:
-
-https://www.youtube.com/@HtmlCssDevs
-
-### Support the channel
-
-- Subscribe
-- Like the videos
-- Share with fellow developers
-- Turn on notifications for new CSS and HTML projects
-
-## License
-
-This project is open for learning and personal use.
+</div>
 
 ---
 
-Made with passion for creative CSS designs by Html Css Devs.
+### ✨ About the Project
+
+A beautiful **Hypnotic Rings Animation** created with **Pure CSS** only.
+Smooth spinning concentric rings that create a mesmerizing, modern, and lightweight visual effect — perfect for loaders, backgrounds, or creative UI elements.
+
+> No JavaScript. No libraries. 100% Pure CSS.
+
+---
+
+### 🎯 Features
+
+- 🌀 Smooth hypnotic spinning rings
+- ⚡ Lightweight & high performance
+- 📱 Fully responsive
+- 🎨 Easy to customize (colors, speed, size)
+- 💻 Pure CSS (No JavaScript)
+
+---
+
+### 🛠️ Technologies Used
+
+- HTML5
+- CSS3 (Animations, Keyframes, Transforms)
+
+---
+
+### 🚀 How to Use
+
+1. Download or clone this repository
+2. Open `index.html` in your browser
+3. Enjoy the animation!
+
+---
+
+### 📂 Project Structure
+
+```bash
+hypnotic-rings-animation/
+├── index.html
+├── style.css
+└── README.md
